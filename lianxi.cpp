@@ -1,0 +1,2 @@
+#include <iostream>
+usingname staps
